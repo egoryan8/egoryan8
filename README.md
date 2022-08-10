@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://media2.giphy.com/media/a8rlSHPozsTEuh1ibJ/giphy.gif?cid=ecf05e47zyjvkqtdiekaadreatj6283edobetiyzb0geefpd&rid=giphy.gif&ct=g" width="300"/>
+<h1 align="center"> <img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="300"/>
 <br>Привет <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=500&color=338DF7&center=true&vCenter=true&width=1000&lines=%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%95%D0%B3%D0%BE%D1%80;%D0%AF+Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" /></a>
 <div id="header" align="center">
