@@ -32,10 +32,6 @@
   <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=egoryan8&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=egoryan8&&hide_border=trueshow_icons=true&theme=react"/>
 </div>
-
-<div align="center">
-  <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=egoryan8&hide_border=true&theme=react-dark"/>
-</div>
 <div align="center">
  <img src="https://www.codewars.com/users/egoryan8/badges/large"/>
 </div>
