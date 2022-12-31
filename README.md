@@ -42,9 +42,9 @@
   <a href="https://t.me/egoryan8">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://vk.com/id762935619">
+  <!--<a href="https://vk.com/id762935619">
     <img alt="Vk" src="https://img.shields.io/badge/vk-2131ff?style=for-the-badge&logo=vk&logoColor=white" />
-  </a>
+  </a>-->
 </div>
 
 
