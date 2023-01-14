@@ -51,10 +51,10 @@
 ### 📊&nbsp;My Activity: 
 <div>
   <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=egoryan8&theme=react&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D"/>
-<!--   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=egoryan8&show_icons=true&theme=react&hide_border=true&border_radius=5"/> -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=egoryan8&show_icons=true&theme=react&hide_border=true&border_radius=5"/>
 </div>
-<!-- <div align="center">
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egoryan8&hide=css&langs_count=4&theme=react&hide_border=true&border_radius=5"/>
-</div> -->
+</div>
 
 
