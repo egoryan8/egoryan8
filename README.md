@@ -1,4 +1,6 @@
-<h1><br/>👋 Hey There! I'm Egor, 20 y.o. developer.</h1>
+<h1>👋 Hey There! I'm Egor, 20 y.o. developer.
+    <img src="https://komarev.com/ghpvc/?username=egoryan8" alt="stats"/>
+</h1>
 
 ### 👨‍💻 Frontend skills:
 
