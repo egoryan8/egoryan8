@@ -1,4 +1,4 @@
-<h1>👋 Hey There! I'm Egor, 20 y.o. developer.
+<h1>👋 Hey There! I'm Egor, react developer.
     <img src="https://komarev.com/ghpvc/?username=egoryan8" alt="stats"/>
 </h1>
 
